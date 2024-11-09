@@ -1,4 +1,4 @@
-# Site---Aggregat-Escola-de-Dan-a
+# Site Aggregat Escola de Dança
 Este site foi desenvolvido utilizando a plataforma Wix
 
 
